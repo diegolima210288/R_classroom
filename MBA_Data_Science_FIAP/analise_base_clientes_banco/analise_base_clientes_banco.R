@@ -70,7 +70,7 @@ library(ggplot2)
 library(plotly)
 
 
-#analise quantiade de clientes por sexo e classificação
+#analise quantidade de clientes por sexo e classificação
 grafico_barras <- ggplot2(Cadastral_Transac, aes(x=fx_salario, fill=Sexo))+
   geom_bar(position = 'dodge')+
   xlab("Grupos definido de faixa salarial")+
