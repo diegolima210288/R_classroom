@@ -6,7 +6,7 @@
 
 #importação e visualização da base CADASTRAL
 library(readxl)
-Cadastral <- read_excel("C:/Users/diego.plima/Downloads/Cadastral.xlsx")
+Cadastral <- read_excel("C:/Cadastral.xlsx")
 View(Cadastral)
 
 install.packages("summarytools")
@@ -41,7 +41,7 @@ A
 
 #importação e visualização da base TRANSACIONAL
 library(readxl)
-B <- read_excel("C:/Users/diego.plima/Downloads/Transacional.xlsx")
+B <- read_excel("C:/Transacional.xlsx")
 View(B)
 
 #unindo os data frame com função MERGE
