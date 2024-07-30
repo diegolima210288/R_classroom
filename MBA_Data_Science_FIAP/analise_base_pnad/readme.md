@@ -22,13 +22,13 @@ This directory contains exploratory analysis, in R language, on the Pnad databas
 
 The file of this database is in this directory in the XLSX extension.
 
- - First, I analyze the data and metadata;
- - I check the records with null values;
-  - I process these values;
- - I continue to perform data normalization, but in other variables;
- - I create the regional variable based on the values ​​of the UF variable;
-  - I graphically analyze this new variable;
-- I graphically analyze the variables crown and school attendance;
-- and finally I create a correlation matrix.
+  - First, I analyze the data and metadata;
+  - I check the records with null values;
+   - I process these values;
+  - I continue to perform data normalization, but in other variables;
+  - I create the regional variable based on the values ​​of the UF variable;
+   - I graphically analyze this new variable;
+ - I graphically analyze the variables crown and school attendance;
+ - And finally I create a correlation matrix.
 
 All code is commented.
