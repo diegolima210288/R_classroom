@@ -1,4 +1,4 @@
-Explicação em Português
+## Explicação em Português
 
 Neste diretório realizo uma análise exploratória sobre os dados gerados de uma junção de duas bases de dados (cadastral e transacional) de clientes de um banco de varejo.
 
@@ -14,7 +14,7 @@ As técnicas utilizadas nesta analise foram aprendidas na disciplina Working wit
   - E por fim aplico 4 vezes o algoritmo de Machine Learning "Decision tree" sobre o dataset, alternando as variáveis preditoras para comparar os resultados.
 
 
-Explanation in English
+## Explanation in English
 
 In this directory I carry out an exploratory analysis on the data generated from a combination of two databases (registration and transactional) of customers of a retail bank.
 
